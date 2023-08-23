@@ -1,3 +1,9 @@
-def mul(a,b):
-	print(a*b)
-mul(10,20)
+
+
+def div(a,b):
+	print(a//b)
+div(10,20)
+
+
+
+
